@@ -2,8 +2,8 @@
 
 ## HOWTO
 
-0. git submodule update --init --recursive
-1. make
+0. `git submodule update --init --recursive`
+1. `make`
 
 ## Results
 ------------------------------------------------------------------
